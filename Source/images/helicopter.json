@@ -1,0 +1,37 @@
+{ "frames": [
+   {
+    "filename": "helicopter 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 48, "h": 24 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 24 },
+    "sourceSize": { "w": 48, "h": 24 },
+    "duration": 100
+   },
+   {
+    "filename": "helicopter 1.ase",
+    "frame": { "x": 48, "y": 0, "w": 48, "h": 24 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 24 },
+    "sourceSize": { "w": 48, "h": 24 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-beta11-x64",
+  "image": "helicopter.png",
+  "format": "RGBA8888",
+  "size": { "w": 96, "h": 24 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Loop", "from": 0, "to": 1, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
